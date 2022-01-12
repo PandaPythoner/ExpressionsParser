@@ -3,4 +3,4 @@ project(ExpressionsParser)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(ExpressionsParser main.cpp)
+add_executable(ExpressionsParser main.cpp ExpressionsParser.h)
